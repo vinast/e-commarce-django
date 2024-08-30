@@ -1,3 +1,3 @@
-#E-Commarce Django
+# E-Commarce Django
 
 Dalam Tahap Pengembangan
