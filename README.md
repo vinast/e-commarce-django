@@ -2,4 +2,16 @@
 
 Dalam Tahap Pengembangan 
 
-Bug Bagian Nampilin Data Dari Database
+
+## Lagi Membuat Halaman About Dan Contact
+
+How To Run Project
+
+```
+cd <foldername>
+```
+
+Next
+  ```
+  python run server
+  ```
