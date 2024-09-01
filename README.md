@@ -13,5 +13,5 @@ cd <foldername>
 
 Next
   ```
-  python run server
+  python manage.py runserver
   ```
